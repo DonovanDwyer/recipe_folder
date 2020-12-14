@@ -1,0 +1,12 @@
+{
+  "fields" : {
+    "description" : {
+      "en-US" : "Get your message heard (even on silent mode) with mobile video captions. We've got all of the information you need in our latest blog post. ",
+      "character_limit" : 50000
+    },
+    "title" : {
+      "en-US" : "How Captions Can Boost Your Mobile Videos",
+      "character_limit" : 256
+    }
+  }
+}

@@ -41,7 +41,7 @@
      "resourceSets": [
          {
             "type"                      : "json",
-            "pathRegex"                 : ".*\\.json",
+            "pathRegex"                 : "test\\/.*\\.json",
             "translationPathExpression" : "translated/${originalFile.baseName}_${locale}.${originalFile.extension}",
             "smartlingDirectives" : [
                 "smartling.translate_paths: [{\"path\": \"*/translation\"}]"

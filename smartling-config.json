@@ -41,9 +41,8 @@
      "resourceSets": [
          {
             "type"                      : "json",
-            "pathRegex"                 : "testmessage\\.json",
-            "translationPathExpression" : "translated/${originalFile.baseName}_${locale}.${originalFile.extension}",
-            "translationCommitMessage"  : "Translate ${originalFile.fullName} to ${locale}"
+            "pathRegex"                 : ".*\\.json",
+            "translationPathExpression" : "translated/${originalFile.baseName}_${locale}.${originalFile.extension}"
          }
      ]
 }

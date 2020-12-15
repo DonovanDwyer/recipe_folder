@@ -42,7 +42,7 @@
          {
             "type"                      : "json",
             "pathRegex"                 : "test\\/.*\\.json",
-            "translationPathExpression" : "translated/${originalFile.baseName}_${locale}.${originalFile.extension}",
+            "translationPathExpression" : "${originalFile.path}/${originalFile.baseName}_${locale}.${originalFile.extension}",
             "smartlingDirectives" : [
                 "smartling.translate_paths: [{\"path\": \"*/translation\"}]"
             ]

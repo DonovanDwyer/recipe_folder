@@ -1,12 +1,4 @@
 {
-  "smartling" : {
-  "translate_paths": [{
-  "path": "*/translation",
-  "key": "{*}/translation"
-  }],
-  "placeholder_format_custom": ["(<[^>]+>)|(\\{[^\\}]+\\})"],
-  "variants_enabled" : "true"
-  },
   "<0>AI has the opportunity to improve </0>most types of lending globally": {
     "translation": "<0>AI has the opportunity to improve </0>most types of lending globally",
     "origin": [

@@ -40,14 +40,6 @@
      //                                See https://docs.smartling.com/display/docs/Supported+File+Types#SupportedFileTypes-java
      "resourceSets": [
          {
-            "type"                      : "json",
-            "pathRegex"                 : "test\\/.*\\.json",
-            "translationPathExpression" : "${originalFile.path}/${originalFile.baseName}_${locale}.${originalFile.extension}",
-            "smartlingDirectives" : [
-                "smartling.translate_paths: [{\"path\": \"*/translation\"}]"
-            ]
-         },
-         {
              "type"                      : "json",
              "authorizeContent"          : "false",
              "pathRegex"                 : "RegulatoryReferenceDataStatements\\.en\\.US\\.json",

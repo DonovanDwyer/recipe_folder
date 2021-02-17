@@ -1,0 +1,32 @@
+{
+  "PAGE_TITLE" : {
+    "USER_SETTINGS" : "Paramètres utilisateur - Criteo",
+    "API_USER_SETTINGS" : "Paramètres utilisateur de l'API - Criteo",
+    "BUDGET_MANAGEMENT" : "Gestion du budget - Criteo",
+    "CAMPAIGN_MANAGEMENT" : "Gestion de la campagne - Criteo",
+    "DEMO_PAGE" : "Page de démonstration - Criteo",
+    "CREATIVES_LIVE" : "Créatifs - En direct - Criteo",
+    "CREATIVES_DEMO" : "Créatifs - Démonstration - Criteo",
+    "CREATIVES_COUPON_PROJECTS" : "Créatifs - Projets de coupons - Criteo",
+    "CREATIVES_HISTORY" : "Créatifs - Histoire - Criteo",
+    "CREATIVES_COUPON_PROJECT" : "Créatifs - Projet de coupon - Criteo",
+    "ALERT_SETTINGS" : "Gestion des alertes - Criteo",
+    "USER_MANAGEMENT" : "Gestion des utilisateurs - Criteo",
+    "ADVANCED_OPTIONS" : "Options avancées - Criteo",
+    "ACCOUNT_SETTINGS" : "Paramètres du compte - Criteo",
+    "REPORTING_DPA" : "Rapport DPA - Criteo",
+    "DISPLAY" : "Rapports sur les campagnes d'affichage - Criteo",
+    "BANNER_DEMO" : "Gestion des bannières - Criteo",
+    "ACCESS_DENIED" : "Accès refusé - Criteo",
+    "ERROR" : "Erreur - Criteo",
+    "SIGN_IN" : "Connexion - Criteo",
+    "TAGS" : "Criteo OneTag",
+    "FEEDS" : "Catalogue de produits",
+    "FEEDSTESTIMPORT" : "Importation des tests du catalogue",
+    "FEEDSFULLTESTIMPORT" : "Catalogue d'importation test complet",
+    "FEEDSETTINGS" : "Paramètres du catalogue",
+    "TAG_EVENTS" : "Marquer des événements",
+    "TAG_VALIDATION" : "Validation des balises",
+    "ANALYTICS" : "Analyse de Groupe"
+  }
+}

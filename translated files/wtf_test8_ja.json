@@ -1,0 +1,32 @@
+{
+  "PAGE_TITLE" : {
+    "USER_SETTINGS" : "ユーザー設定-Criteo",
+    "API_USER_SETTINGS" : "API ユーザー設定-Criteo",
+    "BUDGET_MANAGEMENT" : "予算管理-Criteo",
+    "CAMPAIGN_MANAGEMENT" : "キャンペーン管理-Criteo",
+    "DEMO_PAGE" : "デモページ-Criteo",
+    "CREATIVES_LIVE" : "クリエイティブ-ライブ-Criteo",
+    "CREATIVES_DEMO" : "クリエイティブ-デモ-Criteo",
+    "CREATIVES_COUPON_PROJECTS" : "クリエイティブ-クーポンプロジェクト-Criteo",
+    "CREATIVES_HISTORY" : "クリエイティブ-履歴-Criteo",
+    "CREATIVES_COUPON_PROJECT" : "クリエイティブ-クーポンプロジェクト-Criteo",
+    "ALERT_SETTINGS" : "アラート管理-Criteo",
+    "USER_MANAGEMENT" : "ユーザー管理-Criteo",
+    "ADVANCED_OPTIONS" : "詳細オプション-Criteo",
+    "ACCOUNT_SETTINGS" : "アカウント設定-Criteo",
+    "REPORTING_DPA" : "DPA-Criteo の報告",
+    "DISPLAY" : "キャンペーンレポートの表示-Criteo",
+    "BANNER_DEMO" : "バナー管理-Criteo",
+    "ACCESS_DENIED" : "アクセス拒否-Criteo",
+    "ERROR" : "エラー-Criteo",
+    "SIGN_IN" : "サインイン-Criteo",
+    "TAGS" : "Criteo OneTag",
+    "FEEDS" : "製品カタログ",
+    "FEEDSTESTIMPORT" : "カタログテストインポート",
+    "FEEDSFULLTESTIMPORT" : "カタログフルテストインポート",
+    "FEEDSETTINGS" : "カタログ設定",
+    "TAG_EVENTS" : "タグイベント",
+    "TAG_VALIDATION" : "タグの検証",
+    "ANALYTICS" : "分析"
+  }
+}

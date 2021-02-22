@@ -1,0 +1,32 @@
+{
+  "PAGE_TITLE" : {
+    "USER_SETTINGS" : "Configuración de usuario - Criteo",
+    "API_USER_SETTINGS" : "Configuración de usuario de API - Criteo",
+    "BUDGET_MANAGEMENT" : "Gestión del presupuesto - Criteo",
+    "CAMPAIGN_MANAGEMENT" : "Gestión de campañas - Criteo",
+    "DEMO_PAGE" : "Página de demostración - Criteo",
+    "CREATIVES_LIVE" : "Creativos - En vivo - Criteo",
+    "CREATIVES_DEMO" : "Creativos - Demo - Criteo",
+    "CREATIVES_COUPON_PROJECTS" : "Creativos - Proyectos de cupones - Criteo",
+    "CREATIVES_HISTORY" : "Creatividades - Historia - Criteo",
+    "CREATIVES_COUPON_PROJECT" : "Creativos - Proyecto de cupones - Criteo",
+    "ALERT_SETTINGS" : "Gestión de alertas - Criteo",
+    "USER_MANAGEMENT" : "Gestión de usuarios - Criteo",
+    "ADVANCED_OPTIONS" : "Opciones avanzadas - Criteo",
+    "ACCOUNT_SETTINGS" : "Configuración de la cuenta - Criteo",
+    "REPORTING_DPA" : "Presentación de informes DPA - Criteo",
+    "DISPLAY" : "Informes de campañas de visualización - Criteo",
+    "BANNER_DEMO" : "Gestión de banners - Criteo",
+    "ACCESS_DENIED" : "Acceso denegado - Criteo",
+    "ERROR" : "Error - Criteo",
+    "SIGN_IN" : "Registro - Criteo",
+    "TAGS" : "Criteo OneTag",
+    "FEEDS" : "Catálogo de productos",
+    "FEEDSTESTIMPORT" : "Importación de pruebas del catálogo",
+    "FEEDSFULLTESTIMPORT" : "Importación de catálogo completo de prueba",
+    "FEEDSETTINGS" : "Configuración del catálogo",
+    "TAG_EVENTS" : "Etiqueta Eventos",
+    "TAG_VALIDATION" : "Validación de etiquetas",
+    "ANALYTICS" : "Analytics"
+  }
+}

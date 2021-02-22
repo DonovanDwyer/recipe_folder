@@ -1,0 +1,32 @@
+{
+ "PAGE_TITLE": {
+  "USER_SETTINGS": "User settings - Criteo",
+  "API_USER_SETTINGS": "API User settings - Criteo",
+  "BUDGET_MANAGEMENT": "Budget management - Criteo",
+  "CAMPAIGN_MANAGEMENT": "Campaign management - Criteo",
+  "DEMO_PAGE": "Demo page - Criteo",
+  "CREATIVES_LIVE": "Creatives - Live - Criteo",
+  "CREATIVES_DEMO": "Creatives - Demo - Criteo",
+  "CREATIVES_COUPON_PROJECTS": "Creatives - Coupon Projects - Criteo",
+  "CREATIVES_HISTORY": "Creatives - History - Criteo",
+  "CREATIVES_COUPON_PROJECT": "Creatives - Coupon Project- Criteo",
+  "ALERT_SETTINGS": "Alert management - Criteo",
+  "USER_MANAGEMENT": "User management - Criteo",
+  "ADVANCED_OPTIONS": "Advanced options - Criteo",
+  "ACCOUNT_SETTINGS": "Account settings - Criteo",
+  "REPORTING_DPA": "Reporting DPA - Criteo",
+  "DISPLAY": "Display campaigns reporting - Criteo",
+  "BANNER_DEMO": "Banner management - Criteo",
+  "ACCESS_DENIED": "Access denied - Criteo",
+  "ERROR": "Error - Criteo",
+  "SIGN_IN": "Sign-In - Criteo",
+  "TAGS": "Criteo OneTag",
+  "FEEDS": "Product Catalog",
+  "FEEDSTESTIMPORT": "Catalog test import",
+  "FEEDSFULLTESTIMPORT" : "Catalog full test import",
+  "FEEDSETTINGS": "Catalog settings",
+  "TAG_EVENTS": "Tag Events",
+  "TAG_VALIDATION" : "Tag Validation",
+  "ANALYTICS": "Analytics"
+}
+}

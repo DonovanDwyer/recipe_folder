@@ -1,5 +1,5 @@
 {
-  "ContactInstitutionPane.phoneContact": "Contact your bank",
+  "ContactInstitutionPane.phoneContact": 'Contact your bank',
   "ContactInstitutionPane.phoneContactTryAnother": "Try another contact method",
   "ContactInstitutionPane.phoneRepresentative": "Call a {{.BANK_NAME}} representative",
   "ContactInstitutionPane.phoneRepresentativeShareData": "Let your {{.BANK_NAME}} representative know that you want to share your data with {{.CLIENT_NAME}}. Call the phone number below to voice your concern",

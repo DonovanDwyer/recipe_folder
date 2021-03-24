@@ -42,7 +42,7 @@
          {
              "type"                      : "json",
              "authorizeContent"          : "false",
-             "pathRegex"                 : "RegulatoryReferenceDataStatements\\.en\\.US\\.json",
+             "pathRegex"                 : "JSON\\/*\\.json",
              "translationPathExpression" : "${originalFile.path}${originalFile.baseName.replaceAll('.en.US', '.'+locale)}.${originalFile.extension",
              "translationCommitMessage"  : "Translation task for ${originalFile.name} to ${locale}",
              "smartlingDirectives" : [

@@ -42,8 +42,8 @@
          {
              "type"                      : "json",
              "authorizeContent"          : "false",
-             "pathRegex"                 : "test\\/*\\/brand_new_day\\.json",
-             "translationPathExpression" : "${originalFile.path}${originalFile.baseName.replaceAll('.en.US', '.'+locale)}\\.${originalFile.extension}",
+             "pathRegex"                 : "test\\/\\.*\\/gottaloveit\\/brand_new_day\\.json",
+             "translationPathExpression" : "${originalFile.path}${originalFile.baseName.replaceAll('.en.US', '.'+locale)}.${originalFile.extension}",
              "translationCommitMessage"  : "Translation task for ${originalFile.name} to ${locale}",
              "smartlingDirectives" : [
                  "smartling.translate_paths = [{\"path\": \"text\"},{\"key\": \"id\", \"path\": \"name\"},{\"key\": \"id\", \"path\": \"description\"}]",

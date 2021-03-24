@@ -42,7 +42,7 @@
          {
              "type"                      : "json",
              "authorizeContent"          : "false",
-             "pathRegex"                 : "test\\/\\.*\\/i_love_my_k_swiss.json",
+             "pathRegex"                 : "test\\/*\\/i_love_my_k_swiss.json",
              "translationPathExpression" : "${originalFile.path}${originalFile.baseName.replaceAll('.en.US', '.'+locale)}.${originalFile.extension}",
              "translationCommitMessage"  : "Translation task for ${originalFile.name} to ${locale}",
              "smartlingDirectives" : [
